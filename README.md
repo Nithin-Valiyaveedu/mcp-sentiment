@@ -1,7 +1,5 @@
-First MCP Server using Huggingface
-
 ---
-title: Mcp Sentiment
+title: First MCP Server using Huggingface
 emoji: 🌍
 colorFrom: yellow
 colorTo: green
